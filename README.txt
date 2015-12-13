@@ -7,3 +7,7 @@ writing system.
 
 The SCE file obtained is in the format accepted by Superglus and ngPAWS, and slightly 
 differente from the format acepted by PAW PC.
+
+License:
+
+SP2SCE is released under the GPL v2 or later license.
