@@ -11,3 +11,5 @@ differente from the format acepted by PAW PC.
 License:
 
 SP2SCE is released under the GPL v2 or later license.
+
+Code is (C) Yokiyoki, and has been slightly modified by me (Uto)
